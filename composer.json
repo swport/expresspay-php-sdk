@@ -1,5 +1,5 @@
 {
-  "name": "expresspaygh/exp-php-sdk",
+  "name": "swport/exp-php-sdk",
   "description": "A simple library for PHP integrators",
   "type": "library",
   "license": "MIT",
